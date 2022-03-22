@@ -5,5 +5,7 @@ green
 cyan
 red
 purple
-yellow
+yellow, this could be the ponies
 There are not the colors of rainbow
+
+
