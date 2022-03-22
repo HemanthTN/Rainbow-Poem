@@ -1,5 +1,5 @@
 The Rainbow
-This is the unicorn also
+This is the unicorn also and also the ponies
 red
 green
 cyan
@@ -7,3 +7,4 @@ red
 purple
 yellow
 There are not the colors of rainbow
+Ponies
