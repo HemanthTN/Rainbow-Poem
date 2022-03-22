@@ -5,4 +5,5 @@ green
 cyan
 red
 purple
+yellow
 There are not the colors of rainbow
